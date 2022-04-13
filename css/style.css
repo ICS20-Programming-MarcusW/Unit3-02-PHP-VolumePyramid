@@ -1,0 +1,54 @@
+/* Created by: Marcus Wehbi
+ * Created on: April 2022
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit3-02-PHP-VolumePyramid
+*/
+
+body {
+  background-color: #deffdb;
+}
+
+form {
+  background-color: #ded8fd;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 { 
+  background-color: #fbd2b6;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h3 {
+  background-color: #e7dada;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: #b1b5ed;
+	padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+	margin-top: 15px;
+}
+
+#yellow {
+  background-color: #ffadad;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+}
